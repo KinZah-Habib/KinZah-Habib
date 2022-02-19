@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KinZah-Habib
-   Optimistic person, Hardworking work with individual as well as single.
+   Optimistic person, Hardworking.
 - 👀 I’m interested in web developement and create effective post
 - 🌱 I’m currently learning BSCS 6th semester, ASP.NET 
 - 📫 How to reach me?
